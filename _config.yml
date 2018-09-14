@@ -4,7 +4,7 @@ author:
   name: "jekyll-theme-new"
   
 url: "https://vllur.github.io"
-baseurl: /
+baseurl: /council
 
 source: .
 destination: ./_site
