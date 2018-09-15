@@ -1,6 +1,5 @@
 ---
 title: Pinned Page
-pinned: true
 tags: pinned sample page
 published: true
 ---

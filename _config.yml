@@ -1,7 +1,7 @@
-title: "jekyll-theme-new"
-description: "Starting point with many features to build your very own awesome Jekyll theme."
+title: "Samorząd ZSMEiE"
+description: "Oficjalna strona samorządu uczniowskiego w ZSMEiE w Toruniu"
 author:
-  name: "jekyll-theme-new"
+  name: "Samorząd Uczniowski ZSMEiE"
   
 url: "https://vllur.github.io"
 baseurl: /council
@@ -9,7 +9,7 @@ baseurl: /council
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 2
+paginate: 3
 paginate_path: /page/:num/
 
 defaults:
@@ -28,4 +28,5 @@ plugins:
 
 # Custom variables
 google_analytics: ""
-owner : "vellur"
+owner: "ZSMEiE"
+lang: pl_PL 

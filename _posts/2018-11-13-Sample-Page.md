@@ -1,6 +1,5 @@
 ---
 title: Sample Page
-pinned: false
 tags: sample page
 published: true
 ---
