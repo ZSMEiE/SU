@@ -2,17 +2,20 @@
 <html lang="pl-PL">
 {% include head.html %}
 <body>
-<main>
 {% include header.html %}
 
 {% include nav.html %}
+
+<main>
 
 {{ content }}
 
 {% include pages.html %}
 
-{% include footer.html %}
 </main>
+
+{% include footer.html %}
+
 {% if site.google_analytics %}
   {% include analytics.html %}
 {% endif %}

@@ -1,5 +1,5 @@
 {% if paginator.total_pages > 1 %}
-<div class="block pagination">
+<div class="clear block pagination">
   {% if paginator.previous_page == 1 %}
   <a href="{{ site.url}}{{ '/' | prepend: site.baseurl | replace: '//', '/' }}" class="page-item">&laquo;</a>
   {% elsif paginator.previous_page%}

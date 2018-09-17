@@ -1,0 +1,21 @@
+a:link 
+{
+	color: $link;
+	text-decoration: none;
+}
+
+a:visited 
+{
+    color: $link;
+}
+
+a:hover 
+{
+    color: $linkbrightest;
+}
+
+a:active 
+{
+    color: $linkbrighter;
+	text-decoration: none;
+}
