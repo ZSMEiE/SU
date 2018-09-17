@@ -3,24 +3,24 @@ layout: default
 ---
 
 {% for post in paginator.posts %}
-	<article class="block">
+	<article class="block post">
 	<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-	{% include tags.html %}
 	<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
-	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
+	{% include tags.html %}
+	<p>{{ post.content | strip_html | truncatewords:30 }}</p>
 	</article>
 {% endfor %}
 
-<article class="block full-width triple">
- 1
-</article>
-
-<article class="block full-width triple">
- 2
-</article>
-
-<article class="block full-width triple">
- 3
-</article>
-
 {% include pages.html %}
+
+<article class="block triple right">
+ Cel
+</article>
+
+<article class="block triple center">
+ O nas
+</article>
+
+<article class="block triple">
+ Kontakt
+</article>

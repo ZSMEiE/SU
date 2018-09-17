@@ -15,19 +15,20 @@ main
 	max-width: 80%;
 }
 
-.clear
-{
-	clear: both;
-}
-
 .block
 {
 	border-top: 1px solid $block-border;
 	border-bottom: 1px solid $block-border;
 	padding: 1% 1%;
-	background-color: $lite-gray;
+	background-color: $background;
 	margin-top: 2%;
 	overflow-x: hidden;
+}
+
+.post
+{
+	text-align: left;
+	padding: 0 2.5%;
 }
 
 img
@@ -39,15 +40,37 @@ img
 .full-width
 {
 	width: 100%;
-	padding: 0;
 	margin: 0;
+	padding: 0;
 }
 
 .triple
 {
-	width: 33.33%;
+	width: 50%;
 	min-height: 15vh;
-	float: left;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+article > p
+{
+	padding: 0;
+}
+
+article > h2
+{
+	padding: 0;
+	margin: 2% 0;
+}
+
+.right
+{
+	margin-left: auto;
+}
+
+.center
+{
+	margin: auto;
 }
 
 body > .header
