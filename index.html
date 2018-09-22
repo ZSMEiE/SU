@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<h1 class="welcome"> Witamy </h1>
+<h3 class="welcome"> na stronie Samorządu Uczniowskiego w ZSMEiE </h3>
+
+<p class="welcome"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+
 {% for post in paginator.posts %}
 	<article class="block post">
 	<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
@@ -12,15 +17,3 @@ layout: default
 {% endfor %}
 
 {% include pages.html %}
-
-<article class="block triple right">
- Cel
-</article>
-
-<article class="block triple center">
- O nas
-</article>
-
-<article class="block triple">
- Kontakt
-</article>

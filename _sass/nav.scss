@@ -1,6 +1,28 @@
 body > .menu
 {
 	font-family: Verdana;
+	background-color: $navbg;
+	color: $white;
+}
+
+.menu > a:link 
+{
+	color: $white;
+}
+
+.menu > a:visited 
+{
+    color: $white;
+}
+
+.menu > a:hover 
+{
+    color: $white;
+}
+
+.menu > a:active 
+{
+    color: $white;
 }
 
 .menu > .main-width > ul
@@ -24,22 +46,40 @@ body > .menu
 
 .menu > .main-width > ul > li:hover
 {
-	background-color: rgba(0,0,0,0.15);
+	background-color: rgba(0,0,0,0.1);
 }
 
 .menu > .main-width > ul > li:hover > a
 {
-	color: #451717;
+	color: $linkbrightest;
 }
 
-@media only screen and (max-width: 1000px)
+.menu-button
 {
-	;
+	display: none;
+	margin: auto;
+	font-size: 1.5em;
+	color: $linkbrightest;
 }
 
+.menu-button:hover
+{
+	cursor: pointer;
+	background-color: rgba(0,0,0,0.1);
+}
 
 @media only screen and (max-width: 400px)
 {
+	.menu-button
+	{
+		display: initial;
+	}
+	
+	#menu
+	{
+		display: none;
+	}
+	
 	.menu > .main-width > ul
 	{
 		margin: auto;
@@ -47,12 +87,7 @@ body > .menu
 	
 	.menu > .main-width > ul > li
 	{
-		min-width: 33%;
-		margin: 2% 0 3% 0; 
-	}
-	
-	.menu > .main-width > ul > li:nth-last-of-type(-n+2)
-	{
-		width: 50%;
+		clear: both;
+		width: 100%;
 	}
 }

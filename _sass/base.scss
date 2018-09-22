@@ -39,7 +39,7 @@ main
 	}
 }
 
-@media only screen and (max-width: 400px)
+@media only screen and (max-width: 570px)
 {
 	.main-width
 	{
@@ -76,14 +76,6 @@ img
 	padding: 0;
 }
 
-.triple
-{
-	width: 50%;
-	min-height: 15vh;
-	margin-top: 2%;
-	margin-bottom: 2%;
-}
-
 article > p
 {
 	padding: 0;
@@ -95,12 +87,9 @@ article > h2
 	margin: 2% 0;
 }
 
-.right
+.welcome
 {
-	margin-left: auto;
-}
-
-.center
-{
-	margin: auto;
+	text-shadow: 2px 2px $lite-gray;
+	font-family: Helvetica;
+	color: $linkbrightest;
 }
