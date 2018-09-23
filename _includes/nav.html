@@ -2,10 +2,10 @@
 	<div class="main-width" id="menu">
 		<ul>
 			<li><a href="http://zsmeie.torun.pl" target="_blank">Szkoła</a></li>
-			<li><a href="/">Cel</a></li>
-			<li><a href="/">O nas</a></li>
-			<li><a href="/">Kontakt</a></li>
-			<li><a href="/">Archiwum</a></li>
+			<li><a href="{{ "/cel" | absolute_url }}">Cel</a></li>
+			<li><a href="{{ "/onas" | absolute_url }}">O nas</a></li>
+			<li><a href="{{ "/kontakt" | absolute_url }}">Kontakt</a></li>
+			<li><a href="{{ "/archiwum" | absolute_url }}">Archiwum</a></li>
 		</ul>
 	</div>
 	<div class="main-width menu-button" onclick="toggle_visibility('menu');">

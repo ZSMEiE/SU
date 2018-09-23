@@ -22,6 +22,11 @@ main
 	margin-right: auto;
 }
 
+h1,h2
+{
+	text-align: center;
+}
+
 @media only screen and (max-width: 1400px)
 {
 	body
@@ -94,4 +99,16 @@ article > h2
 	font-family: Helvetica;
 	color: $linkbrightest;
 	clear: both;
+}
+
+.socials
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.socials > .social
+{
+	float: left;
+	width: 20%;
 }
