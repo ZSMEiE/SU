@@ -2,7 +2,7 @@ body
 {
 	text-align: center;
 	font-family: Helvetica;
-	font-size: 20px; /* 15 */
+	font-size: 15px;
 	
 	background-image: url("../assets/img/bg/light-veneer.png");
 	/* Background pattern from Subtle Patterns (toptal.com/designers/subtlepatterns/) */
@@ -18,10 +18,11 @@ main
 .main-width
 {
 	max-width: 50%;
-	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-@media only screen and (max-width: 1000px)
+@media only screen and (max-width: 1400px)
 {
 	body
 	{
@@ -49,7 +50,7 @@ main
 
 .block
 {
-	border-top: 1px solid $block-border;
+	border-right: 1px solid $block-border;
 	border-bottom: 1px solid $block-border;
 	padding: 1% 1%;
 	background-color: $background;
@@ -92,4 +93,5 @@ article > h2
 	text-shadow: 2px 2px $lite-gray;
 	font-family: Helvetica;
 	color: $linkbrightest;
+	clear: both;
 }

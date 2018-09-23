@@ -2,4 +2,50 @@ body > .header
 {
 	min-height: 15vh;
 	background-color: $headerbg;
+	font-family: 'Josefin Sans', sans-serif;
+	padding: 0.5em 0;
+}
+
+header > .main-width > a > h1
+{
+	font-size: 3.5em;
+	line-height: 1em;
+	margin: 0;
+	padding-top: 0.5em;
+}
+
+.logo
+{
+	height: 10em;
+	width: 10em;
+	float: left;
+	padding-left: 5em;
+}
+
+.alt-header
+{
+	display: none;
+}
+
+@media only screen and (max-width: 1000px)
+{
+	.alt-header
+	{
+		display: block;
+	}
+	
+	body > .header
+	{
+		padding: 0;
+	}
+	
+	header > .main-width > a > h1
+	{
+		display: none;
+	}
+	
+	.logo
+	{
+		display: none;
+	}
 }

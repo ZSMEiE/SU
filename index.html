@@ -2,10 +2,11 @@
 layout: default
 ---
 
-<h1 class="welcome"> Witamy </h1>
-<h3 class="welcome"> na stronie Samorządu Uczniowskiego w ZSMEiE </h3>
+<h1 class="welcome"> Lorem ipsum dolor sit amet! </h1>
 
-<p class="welcome"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+<h1 class="welcome"> Aktualności </h1>
+
+{% include pages.html %}
 
 {% for post in paginator.posts %}
 	<article class="block post">
