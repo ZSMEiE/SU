@@ -1,4 +1,13 @@
 <footer class="block full-width">
-	ZSMEiE &copy;
-	2018
+	<span>
+	<a href="{{ site.url }}{{ site.baseurl }}">
+		<b>{{ site.owner}}</b>
+		{% capture currentyear %}{{ 'now' | date: "%Y" }}{% endcapture %}
+		{% if currentyear == "2018" %}
+			&copy; {{ currentyear }}
+		{% else %}
+			&copy; 2018 - {{ currentyear }}
+		{% endif %}
+	</a>
+	</span>
 </footer>
