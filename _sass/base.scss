@@ -45,14 +45,6 @@ h1,h2
 	}
 }
 
-@media only screen and (max-width: 570px)
-{
-	.main-width
-	{
-		max-width: 100%;
-	}
-}
-
 .block
 {
 	border-right: 1px solid $block-border;
@@ -110,5 +102,28 @@ article > h2
 .socials > .social
 {
 	float: left;
-	width: 20%;
+	width: 33.33%;
+	height: 8em;
+}
+
+.social a
+{
+}
+
+.social i
+{
+	font-size: 6em;
+}
+
+@media only screen and (max-width: 570px)
+{
+	.main-width
+	{
+		max-width: 100%;
+	}
+	
+	.socials
+	{
+		font-size: 0.5em;
+	}
 }
