@@ -36,7 +36,6 @@ body > .menu
 .menu-button
 {
 	display: none;
-	margin: auto;
 	font-size: 1.5em;
 	color: $linkbrightest;
 }
@@ -51,7 +50,7 @@ body > .menu
 {
 	.menu-button
 	{
-		display: initial;
+		display: block;
 	}
 	
 	#menu
