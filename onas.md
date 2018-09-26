@@ -7,9 +7,18 @@ title: O nas
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer iaculis egestas leo eu mollis.
 
+<h2> Członkowie </h2>
+
 Lorem:
-* Lorem Ipsum
+* Jan Kowalski
 
 Ipsum:
-* Dolor Sit
-* Amet Concectetur
+* Jan Kowalski
+* Jan Kowalski
+
+<h2> Informacje techniczne </h2>
+
+[![Build Status](https://travis-ci.org/vllur/council.svg?branch=master)](https://travis-ci.org/vllur/council)
+
+<h3> Autor: </h3> 
+ * [Patryk Dejewski](https://github.com/vllur)

@@ -2,8 +2,8 @@
 layout: page
 ---
 
-<h2> All news tagged with "{{ page.tag }}" </h2>
-<a href="{{ site.url }}{{ site.baseurl }}/tag"> <h3> All tags </h3> </a>
+<h2> Wszystkie posty z tagiem "{{ page.tag }}" </h2>
+<a href="{{ site.url }}{{ site.baseurl }}/tag"> <h3> Wszystkie tagi </h3> </a>
 <ul>
 {% for post in site.tags[page.tag] %}
   <li> <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }} </a> {{ post.date | date: "%d-%m-%Y" }} <br>
