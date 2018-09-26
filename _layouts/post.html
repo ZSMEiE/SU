@@ -3,7 +3,7 @@ layout: page
 ---
 
 <h1> {{ page.title }} </h1>
-<time datetime="{{ page.date | date: "%d-%m-%Y" }}" class="by-line">{{ page.date | date: "%d-%m-%Y" }}</time>
+<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date: "%d-%m-%Y" }}</time>
 {% include tags.html %}
 <br/>
 {{ content }}
