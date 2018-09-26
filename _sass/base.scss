@@ -2,7 +2,7 @@ body
 {
 	text-align: center;
 	font-family: Helvetica;
-	font-size: 15px;
+	font-size: 20px;
 	
 	background-image: url("../assets/img/bg/light-veneer.png");
 	/* Background pattern from Subtle Patterns (toptal.com/designers/subtlepatterns/) */
@@ -22,7 +22,7 @@ main
 	margin-right: auto;
 }
 
-h1,h2
+h1, h2
 {
 	text-align: center;
 }
@@ -88,7 +88,6 @@ article > h2
 .welcome
 {
 	text-shadow: 2px 2px $lite-gray;
-	font-family: Helvetica;
 	color: $linkbrightest;
 	clear: both;
 }
@@ -104,6 +103,16 @@ article > h2
 	float: left;
 	width: 33.33%;
 	height: 8em;
+}
+
+.in
+{
+	color: $in;
+}
+
+.gh
+{
+	color: $gh;
 }
 
 .social i
