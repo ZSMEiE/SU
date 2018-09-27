@@ -8,7 +8,7 @@ body > .header
 
 header > .main-width > a > h1
 {
-	font-size: 3.5em;
+	font-size: 3em;
 	line-height: 1em;
 	margin: 0;
 	padding-top: 0.5em;
@@ -25,27 +25,4 @@ header > .main-width > a > h1
 .alt-header
 {
 	display: none;
-}
-
-@media only screen and (max-width: 1000px)
-{
-	.alt-header
-	{
-		display: block;
-	}
-	
-	body > .header
-	{
-		padding: 0;
-	}
-	
-	header > .main-width > a > h1
-	{
-		display: none;
-	}
-	
-	.logo
-	{
-		display: none;
-	}
 }

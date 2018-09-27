@@ -1,0 +1,77 @@
+@media only screen and (max-width: 400px)
+{
+	.menu-button
+	{
+		display: block;
+	}
+	
+	#menu
+	{
+		display: none;
+	}
+	
+	.menu > .main-width > ul
+	{
+		margin: auto;
+	}
+	
+	.menu > .main-width > ul > li
+	{
+		clear: both;
+		width: 100%;
+	}
+}
+
+@media only screen and (max-width: 570px)
+{
+	.main-width
+	{
+		max-width: 100%;
+	}
+	
+	.socials
+	{
+		font-size: 0.5em;
+	}
+}
+
+@media only screen and (max-width: 1000px)
+{
+	.alt-header
+	{
+		display: block;
+	}
+	
+	body > .header
+	{
+		padding: 0;
+	}
+	
+	header > .main-width > a > h1
+	{
+		display: none;
+	}
+	
+	.logo
+	{
+		display: none;
+	}
+}
+
+@media only screen and (max-width: 1400px)
+{
+	body
+	{
+		font-size: 15px;
+	}
+	
+	main
+	{
+		max-width: 70%;
+	}
+	
+	.main-width
+	{
+		max-width: 70%;
+	}
+}

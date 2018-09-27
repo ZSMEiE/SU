@@ -49,27 +49,3 @@ body > .menu
 	cursor: pointer;
 	background-color: rgba(0,0,0,0.1);
 }
-
-@media only screen and (max-width: 400px)
-{
-	.menu-button
-	{
-		display: block;
-	}
-	
-	#menu
-	{
-		display: none;
-	}
-	
-	.menu > .main-width > ul
-	{
-		margin: auto;
-	}
-	
-	.menu > .main-width > ul > li
-	{
-		clear: both;
-		width: 100%;
-	}
-}

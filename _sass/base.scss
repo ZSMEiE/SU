@@ -42,24 +42,6 @@ h3, h4, h5, h6
 	color: $linkbrighter;
 }
 
-@media only screen and (max-width: 1400px)
-{
-	body
-	{
-		font-size: 15px;
-	}
-	
-	main
-	{
-		max-width: 70%;
-	}
-	
-	.main-width
-	{
-		max-width: 70%;
-	}
-}
-
 .block
 {
 	border-right: 1px solid $block-border;
@@ -100,6 +82,34 @@ article > h2
 	margin: 2% 0;
 }
 
+article > table, td, th
+{
+	border: 1px solid $body-foreground;
+	border-collapse: collapse;
+}
+
+article > table
+{
+	margin: auto;
+}
+
+article > table > thead > tr > th
+{
+	padding: 0.5em;
+	font-size: 1.2em;
+}
+
+article > table > tbody > tr > td
+{
+	padding: 0.5em;
+}
+
+.pagination
+{
+	font-size: 1.2em;
+	text-shadow: none;
+}
+
 .welcome
 {
 	text-shadow: 2px 2px $lite-gray;
@@ -138,22 +148,10 @@ article > h2
 .social i
 {
 	font-size: 6em;
+	text-shadow: none;
 }
 
 .social i:hover
 {
 	color: rgba(0,0,0,0.50)
-}
-
-@media only screen and (max-width: 570px)
-{
-	.main-width
-	{
-		max-width: 100%;
-	}
-	
-	.socials
-	{
-		font-size: 0.5em;
-	}
 }
