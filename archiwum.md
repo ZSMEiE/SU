@@ -28,7 +28,7 @@ title: Archiwum
           <ul>
         {% endif %}
       {% endunless %}
-        <li><time>{{ post.date | date:"%d %b" }} - </time>
+        <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date:"%d.%m" }} - </time>
           <a href="{{ post.url | absolute_url }}">
             {{ post.title }}
           </a>

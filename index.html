@@ -17,7 +17,7 @@ layout: default
 {% for post in paginator.posts %}
 	<article class="block post">
 	<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-	<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time>
+	<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d.%m.%Y" }}</time>
 	{% include tags.html %}
 	<p>{{ post.content | strip_html | truncatewords:30 }}</p>
 	</article>
