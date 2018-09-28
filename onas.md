@@ -21,7 +21,7 @@ Reszta:
 
 <h2> Informacje techniczne </h2>
 
-[![Build Status](https://travis-ci.org/vllur/council.svg?branch=master)](https://travis-ci.org/vllur/council)
+[![Build Status](https://travis-ci.org/ZSMEiE/su.svg?branch=master)](https://travis-ci.org/ZSMEiE/su)
 
 <h3> Autor strony: </h3> 
  * [Patryk Dejewski](https://github.com/vllur)
