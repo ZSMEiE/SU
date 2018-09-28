@@ -3,8 +3,8 @@ description: "Oficjalna strona samorządu uczniowskiego w ZSMEiE w Toruniu"
 author:
   name: "Samorząd Uczniowski ZSMEiE"
   
-url: "https://vllur.github.io"
-baseurl: /council
+url: "https://zsmeie.github.io"
+baseurl: /su
 
 source: .
 destination: ./_site
