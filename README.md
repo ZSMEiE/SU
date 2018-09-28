@@ -1,8 +1,8 @@
 # SU
 
-[![Build Status](https://travis-ci.org/vllur/council.svg?branch=master)](https://travis-ci.org/vllur/council)
+[![Build Status](https://travis-ci.org/ZSMEiE/su.svg?branch=master)](https://travis-ci.org/ZSMEiE/su)
 
-Oficjalna strona samorz¹du uczniowskiego ZSMEiE.
+Oficjalna strona samorzÄ…du uczniowskiego ZSMEiE.
 
 ## Wykorzystane technologie
  * Google Fonts (zdalne)
@@ -12,7 +12,7 @@ Oficjalna strona samorz¹du uczniowskiego ZSMEiE.
     * zobacz [Gemfile](https://github.com/vllur/council/blob/master/Gemfile) i [_config.yml](https://github.com/vllur/council/blob/master/_config.yml)
 
 ## Fontello
-Wszystkie pliki w ```/font``` oraz ```css/fontello.css``` nale¿¹ do Fontello i s¹ pod licencj¹ SIL:
+Wszystkie pliki w ```/font``` oraz ```css/fontello.css``` naleÅ¼Ä… do Fontello i sÄ… objÄ™te licencjÄ… SIL:
 
 ### Font Awesome
    Copyright (C) 2016 by Dave Gandy
