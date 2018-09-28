@@ -1,18 +1,18 @@
-# council
+# SU
 
 [![Build Status](https://travis-ci.org/vllur/council.svg?branch=master)](https://travis-ci.org/vllur/council)
 
-Jekyll website for my school's student council.
+Oficjalna strona samorz¹du uczniowskiego ZSMEiE.
 
-## Dependencies
- * Google Fonts (remote)
- * Flexbox Grid (remote)
- * Fontello (local)
+## Wykorzystane technologie
+ * Google Fonts (zdalne)
+ * Flexbox Grid (zdalne)
+ * Fontello (lokalne)
  * Jekyll
-    * see [Gemfile](https://github.com/vllur/council/blob/master/Gemfile) and [_config.yml](https://github.com/vllur/council/blob/master/_config.yml)
+    * zobacz [Gemfile](https://github.com/vllur/council/blob/master/Gemfile) i [_config.yml](https://github.com/vllur/council/blob/master/_config.yml)
 
 ## Fontello
-All ```/font``` files and ```css/fontello.css``` file belongs to Fontello and are under the SIL license:
+Wszystkie pliki w ```/font``` oraz ```css/fontello.css``` nale¿¹ do Fontello i s¹ pod licencj¹ SIL:
 
 ### Font Awesome
    Copyright (C) 2016 by Dave Gandy
