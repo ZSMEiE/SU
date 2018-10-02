@@ -10,14 +10,16 @@ Młodzi, energiczni, piękni uczniowie do waszej dyspozycji.
 <h2> Członkowie </h2>
 
 Przewodnicząca:
-* Wanessa
+* Wanesa Kolenderska
 
 Vice - Przewodniczący:
-* Maciej
+* Maciej Drewiński
 
-Reszta:
-* Bartek
-* Artur
+Skarbnik:
+* Bartek Wąsik
+
+Sekretarz:
+* Artur Pacuła
 
 <h2> Informacje techniczne </h2>
 
