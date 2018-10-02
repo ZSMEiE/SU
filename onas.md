@@ -10,22 +10,22 @@ Młodzi, energiczni, piękni uczniowie do waszej dyspozycji.
 <h2> Członkowie </h2>
 
 **Przewodnicząca:**
-* Wanesa Kolenderska
+* [Wanesa Kolenderska](https://www.facebook.com/wanesa.kolenderska)
 
 ![Wanesa](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/wanesa.png)
 
 **Vice - Przewodniczący:**
-* Maciej Drewiński
+* [Maciej Drewiński](https://www.facebook.com/maciej.drewinski.7)
 
 ![Maciej](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/maciej.png)
 
 **Skarbnik:**
-* Bartek Wąsik
+* [Bartek Wąsik](https://www.facebook.com/kaku.was)
 
 ![Bartek](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/bartek.png)
 
 **Sekretarz:**
-* Artur Pacuła
+* [Artur Pacuła](https://www.facebook.com/grzybas2001)
 
 ![Artur](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/artur.png)
 
