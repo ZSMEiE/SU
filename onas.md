@@ -12,8 +12,11 @@ Młodzi, energiczni, piękni uczniowie do waszej dyspozycji.
 Przewodnicząca:
 * Wanesa Kolenderska
 
+![Wanesa](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/wanesa.png)
+
 Vice - Przewodniczący:
 * Maciej Drewiński
+
 ![Maciej](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/maciej.png)
 
 Skarbnik:
@@ -21,6 +24,8 @@ Skarbnik:
 
 Sekretarz:
 * Artur Pacuła
+
+![Artur](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/artur.png)
 
 <h2> Informacje techniczne </h2>
 
