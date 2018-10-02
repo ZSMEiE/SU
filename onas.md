@@ -22,6 +22,8 @@ Vice - Przewodniczący:
 Skarbnik:
 * Bartek Wąsik
 
+![Bartek](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/bartek.png(
+
 Sekretarz:
 * Artur Pacuła
 
