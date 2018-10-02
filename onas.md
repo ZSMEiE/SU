@@ -14,7 +14,7 @@ Przewodnicząca:
 
 Vice - Przewodniczący:
 * Maciej Drewiński
-![Maciej](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Maciej](https://github.com/ZSMEiE/su/blob/master/assets/img/maciej.png)
 
 Skarbnik:
 * Bartek Wąsik
