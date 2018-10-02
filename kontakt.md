@@ -7,6 +7,6 @@ title: Kontakt
 
 Zachęcamy do kontaktu z nami poprzez: 
 
-* <a href="mailto:samorzadzsmeie@gmail.com">e-mail</a>
+* e-mail: samorzadzsmeie@gmail.com
 * (fb grupa)
 * (instagram)
