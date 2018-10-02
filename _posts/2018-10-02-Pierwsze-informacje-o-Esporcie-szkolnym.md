@@ -1,6 +1,6 @@
 ---
-title: E-sport
-tags: E-sport
+title: Pierwsze informacje o Esporcie szkolnym
+tags: esport
 published: true
 ---
 
