@@ -14,6 +14,7 @@ Przewodnicząca:
 
 Vice - Przewodniczący:
 * Maciej Drewiński
+![Maciej](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 Skarbnik:
 * Bartek Wąsik
