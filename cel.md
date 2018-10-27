@@ -5,7 +5,7 @@ title: Cel Samorządu
 
 <h1> {{ page.title }} </h1>
 
-<h2> PLAN PRACY SAMORZĄDU UCZNIOWSKIEGO NA ROK SZKOLNY 2018/2019 </2>h
+<h2> PLAN PRACY SAMORZĄDU UCZNIOWSKIEGO NA ROK SZKOLNY 2018/2019 </h2>
 
 **PAŹDZIERNIK**
 * Życzenia  dla nauczycieli (14 X)  
