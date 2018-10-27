@@ -8,5 +8,4 @@ title: Kontakt
 Zachęcamy do kontaktu z nami poprzez: 
 
 * e-mail: samorzadzsmeie@gmail.com
-* (fb grupa)
-* (instagram)
+* [instagram](https://www.instagram.com/uczniowie_zsmeie/?utm_source=ig_profile_share&igshid=l4pc62c6n6hq)
