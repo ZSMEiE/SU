@@ -1,6 +1,6 @@
 ---
 layout: tagpage
-title: "Tag: esport"
-tag: esport
+title: "Tag: e-sport"
+tag: e-sport
 robots: noindex
 ---

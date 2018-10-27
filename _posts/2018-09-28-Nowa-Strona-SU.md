@@ -4,6 +4,4 @@ tags: strona
 published: true
 ---
 
-Witamy uczniów na naszej nowej stronie samorządu, będziemy informować was o wszystkich naszych działanich tutaj i na innych mediach społecznościowych!
-
-## WITAMY!!
+Witamy uczniów ZSMEiE na naszej nowej stronie samorządu. Będziemy informować was o wszystkich naszych działaniach tutaj i na innych mediach społecznościowych!
