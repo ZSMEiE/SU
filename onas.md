@@ -9,12 +9,12 @@ Młodzi, energiczni, piękni uczniowie do waszej dyspozycji.
 
 <h2> Członkowie </h2>
 
-**Przewodnicząca:**
+**Przewodniczący:**
 * [Wanesa Kolenderska](https://www.facebook.com/wanesa.kolenderska)
 
 ![Wanesa](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/wanesa.png)
 
-**Vice - Przewodniczący:**
+**Zastępca Przewodniczącego:**
 * [Maciej Drewiński](https://www.facebook.com/maciej.drewinski.7)
 
 ![Maciej](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/maciej.png)
@@ -25,7 +25,7 @@ Młodzi, energiczni, piękni uczniowie do waszej dyspozycji.
 ![Bartek](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/bartek.png)
 
 **Sekretarz:**
-* [Artur Pacuła](https://www.facebook.com/grzybas2001)
+* [Artur Pacuła](https://www.facebook.com/artur.pacula.01)
 
 ![Artur](https://raw.githubusercontent.com/ZSMEiE/su/master/assets/img/artur.png)
 
@@ -35,3 +35,6 @@ Młodzi, energiczni, piękni uczniowie do waszej dyspozycji.
 
 <h3> Autor strony: </h3> 
  * [Patryk Dejewski](https://github.com/vllur)
+ 
+ <h3> Administrator strony: </h3>
+ * [Maciej Drewiński](https://github.com/PoKeMaciej)
